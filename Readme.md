@@ -9,3 +9,5 @@ hola
 
 - Texto añadido de la rama jmro y pull request
 >>>>>>> jmro
+-texto añadido y segunda rama creada
+>>>>>>> fer0809
