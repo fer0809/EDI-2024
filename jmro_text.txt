@@ -25,8 +25,6 @@ If you have any questions, please ask me. I am happy to help. I am excited to wo
 Best regards,
 [Your Name]
 
-<<<<<<< HEAD
-este es un trabajo de ingles
-=======
+
 Este texto es para generar el conflicto con el texto de Jmro
->>>>>>> da7962a (Modificacion de texto para generar conflictos)
+
