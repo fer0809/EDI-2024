@@ -11,3 +11,5 @@ hola
 >>>>>>> jmro
 -texto añadido y segunda rama creada
 >>>>>>> fer0809
+-añadi otra rama
+>>>>>>> 
